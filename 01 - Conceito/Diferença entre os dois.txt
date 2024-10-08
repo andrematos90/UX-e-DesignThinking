@@ -1,0 +1,19 @@
+Design Thinking e UX (Experiência do Usuário) estão inter-relacionados, mas não são a mesma coisa. Aqui estão algumas diferenças importantes entre os dois:
+
+Foco e Objetivo
+UX: O principal foco é a experiência do usuário ao interagir com um produto ou serviço. O objetivo do design de UX é criar interfaces e experiências que sejam agradáveis, úteis e eficientes para os usuários.
+
+Design Thinking: É uma abordagem mais ampla e metodológica que busca resolver problemas complexos através da empatia, ideação e prototipagem. O Design Thinking não se limita apenas a produtos digitais; pode ser aplicado a serviços, processos e até estratégias organizacionais.
+
+Abordagem
+UX: Envolve práticas específicas de design e pesquisa, como testes de usabilidade, design de interfaces e prototipagem, focando na interação e nas emoções do usuário em relação ao produto.
+
+Design Thinking: É um processo que pode envolver múltiplas disciplinas e etapas. A ênfase está em entender o problema em um contexto mais amplo, gerando soluções criativas e iterativas. Inclui uma fase de empatia e definição, que é fundamental para garantir que a solução final atenda às necessidades dos usuários.
+
+Aplicação
+UX: É frequentemente aplicado no desenvolvimento de produtos digitais, como sites, aplicativos e software, e envolve uma série de técnicas e ferramentas específicas.
+
+Design Thinking: Pode ser utilizado em qualquer contexto onde a inovação e a resolução de problemas são necessárias, como em negócios, educação, serviços e mais.
+
+Conclusão
+Embora Design Thinking e UX estejam conectados e possam ser usados juntos, eles têm enfoques e objetivos distintos. O Design Thinking pode ser visto como uma abordagem mais ampla que ajuda a informar e inspirar o design de experiências de usuário eficazes.

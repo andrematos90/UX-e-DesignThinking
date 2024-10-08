@@ -1,0 +1,11 @@
+UX, ou User Experience (Experiência do Usuário), refere-se à maneira como uma pessoa se sente ao interagir com um produto, sistema ou serviço. No contexto de design e desenvolvimento de software, UX é o conjunto de práticas que visam melhorar a satisfação do usuário, tornando a interação fácil, eficiente e agradável.
+
+O conceito de UX abrange vários aspectos, como:
+
+Usabilidade: Quão simples e intuitivo é para o usuário realizar tarefas.
+Funcionalidade: Se o produto atende às necessidades e expectativas do usuário.
+Acessibilidade: Se pessoas com diferentes capacidades (por exemplo, deficiências) conseguem usar o produto.
+Estética: A aparência visual e como ela impacta a percepção do usuário.
+Interação: O quão eficiente e agradável é a interação com o produto.
+
+Em suma, o foco da UX é garantir que os usuários tenham uma experiência positiva, o que pode influenciar a aceitação e sucesso de um produto no mercado.

@@ -1,0 +1,28 @@
+Design Thinking é uma abordagem centrada no ser humano para a inovação que se concentra em entender as necessidades dos usuários e resolver problemas complexos. Essa metodologia combina a criatividade e a lógica para desenvolver soluções que sejam desejáveis para os usuários, viáveis para o mercado e tecnicamente factíveis. O Design Thinking é frequentemente aplicado em áreas como design de produtos, serviços e experiências, mas seus princípios podem ser utilizados em diversos contextos.
+
+
+Fases do Design Thinking
+
+O processo de Design Thinking geralmente é dividido em cinco fases:
+
+Empatia: Entender as necessidades, desejos e desafios dos usuários por meio de pesquisa e observação. Essa etapa envolve interagir diretamente com os usuários e coletar insights sobre suas experiências.
+
+Definição: Sintetizar as informações coletadas na fase de empatia para definir claramente o problema que precisa ser resolvido. O objetivo é criar uma declaração de problema que reflita as necessidades do usuário.
+
+Ideação: Gerar uma ampla gama de ideias e soluções possíveis para o problema definido. Isso pode incluir sessões de brainstorming e outras técnicas criativas que incentivam o pensamento divergente.
+
+Prototipagem: Criar representações simples e tangíveis das soluções propostas. Prototótipos podem variar em fidelidade, desde esboços até modelos mais elaborados, e são usados para explorar as ideias de forma prática.
+
+Testes: Avaliar os protótipos com usuários reais para obter feedback e insights. Essa fase pode levar a iterações, onde os protótipos são refinados e melhorados com base nas respostas dos usuários.
+
+
+
+
+
+Benefícios do Design Thinking
+
+Foco no usuário: Garante que as soluções atendam às necessidades reais dos usuários.
+Inovação: Estimula a criatividade e a geração de novas ideias.
+Colaboração: Incentiva o trabalho em equipe e a diversidade de perspectivas.
+Iteração rápida: Permite a experimentação e a adaptação rápida com base no feedback.
+O Design Thinking é uma metodologia poderosa para abordar problemas de forma holística e centrada no usuário, levando a soluções mais eficazes e relevantes.
